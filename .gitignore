@@ -1,0 +1,5 @@
+# IDE section
+*.sublime*
+
+# Build system
+build
